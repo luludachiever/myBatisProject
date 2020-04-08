@@ -1,0 +1,5 @@
+com\lagou\config\BoundSql.class
+com\lagou\pojo\MappedStatement.class
+com\lagou\sqlSession\simpleExecutor.class
+com\lagou\pojo\Configuration.class
+com\lagou\sqlSession\Executor.class
